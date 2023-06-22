@@ -12,7 +12,7 @@ In this project, we performed exploratory data analysis (EDA) to gain insights i
 
 ## Repository Structure
 
-- `data/`: This directory contains the dataset file.
+- `insurance/`: This directory contains the dataset file.
 - `notebooks/`: This directory contains Jupyter notebooks used for EDA, data preprocessing, and model training.
 - `README.md`: This file provides an overview of the project, its objectives, and the repository structure.
 
